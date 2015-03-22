@@ -1,15 +1,15 @@
-# :clipboard: Google Clipboard
+# :clipboard: Clipboard Search
 
-Google Clipboard allows you to quickly make yourslef a useful shortcut on your Mac. Google Clipboard allows you to designate a keyboard shortcut that will perform a Google Search in Safari, Firefox, or Google Chrome of whatever is stored in your clipboard (what you copied last). 
+Clipboard Search allows you to quickly make yourself useful shortcuts on your Mac for searching Google and Wikipedia. Clipboard Search allows you to designate keyboard shortcuts that will perform a Google or Wikipedia search in Safari, Firefox, or Google Chrome of whatever is stored in your clipboard (what you copied last). 
 
 <br>
-To setup Google Clipboard, follow the following steps:
+To setup Clipboard Search, follow the following steps:
 
 1. Go into the *Automator* program and make a new document.
  
 2. Select "Service" as the type, and then under *Library -> Utilities*, choose "Run AppleScript".
 
-3. Change "Service receives selected" to "no input". 
+3. Decide whether you want to create a tool for searching Google or one for Wikipedia. 
 
 4. Copy the correct script from this repository as a replacement to the code provided as a placeholder.
 
@@ -22,4 +22,4 @@ To setup Google Clipboard, follow the following steps:
 8. Go ahead and use that shortcut!
 
 <br>
-To use Google Clipboard, copy some text to your clipboard and then use the keyboard shortcut you set during the setup.
+For Google search scripts, use the appropriate script under the Google folder of this repository, and for Wikipedia search, use the correct script in the Wikipedia folder.
