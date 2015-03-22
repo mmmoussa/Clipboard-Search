@@ -1,4 +1,4 @@
-# Google-Clipboard
+# :clipboard: Google-Clipboard
 
 Google Clipboard allows you to quickly make yourslef a useful shortcut on your Mac. Google Clipboard allows you to designate a keyboard shortcut that will perform a Google Search in Safari, Firefox, or Google Chrome of whatever is stored in your clipboard (what you copied last). 
 
