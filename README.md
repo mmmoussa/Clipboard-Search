@@ -20,6 +20,3 @@ To use Google Clipboard, follow the following steps:
 7. Choose the service you just created and assign it a shortcut.
 
 8. Go ahead and use that shortcut!
-
-<br>
-**Note:** As of now the Firefox and Google Chrome scripts are not fully functioning.
