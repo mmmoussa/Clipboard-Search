@@ -3,7 +3,7 @@
 Google Clipboard allows you to quickly make yourslef a useful shortcut on your Mac. Google Clipboard allows you to designate a keyboard shortcut that will perform a Google Search in Safari, Firefox, or Google Chrome of whatever is stored in your clipboard (what you copied last). 
 
 <br>
-To use Google Clipboard, follow the following steps:
+To setup Google Clipboard, follow the following steps:
 
 1. Go into the *Automator* program and make a new document.
  
@@ -22,4 +22,4 @@ To use Google Clipboard, follow the following steps:
 8. Go ahead and use that shortcut!
 
 <br>
-**Note:** As of now the Firefox and Google Chrome scripts are not fully functioning.
+To use Google Clipboard, copy some text to your clipboard and then use the keyboard shortcut you set during the setup.
