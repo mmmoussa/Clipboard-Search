@@ -1,6 +1,6 @@
 # :clipboard: Clipboard Search
 
-Clipboard Search allows you to quickly make yourself useful shortcuts on your Mac for searching Google and Wikipedia. Clipboard Search allows you to designate keyboard shortcuts that will perform a Google or Wikipedia search in Safari, Firefox, or Google Chrome of whatever is stored in your clipboard (what you copied last). 
+Clipboard Search allows you to quickly make yourself useful shortcuts on your Mac for searching Google and Wikipedia. Clipboard Search allows you to designate keyboard shortcuts that will perform a Google or Wikipedia search in Safari, Firefox, or Google Chrome of whatever you currently have selected. Just select some text and use the keyboard shortcut you've assigned. A new tab will be opened in your browser with the Google or Wikipedia search result.
 
 <br>
 To setup Clipboard Search, follow the following steps:
